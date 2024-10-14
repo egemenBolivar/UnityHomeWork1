@@ -10,8 +10,7 @@
 # Visual Studio / Rider
 .vscode/
 .idea/
-*.sln
-*.csproj
+
 *.userprefs
 
 # OS Generated
